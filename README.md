@@ -3,6 +3,8 @@
 A plugin to simplify embedding the chatbox iframe within svelte websites.
 
 ## Example
+> [!IMPORTANT]  
+> Place the `Bot` component in the root `+layout.svelte`, at the bottom of the file (so that `Bot` loads last).
 ```svelte
 <Bot
   src="https://v2.hotelchatai.com"

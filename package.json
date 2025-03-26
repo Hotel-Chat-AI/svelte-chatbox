@@ -21,7 +21,7 @@
     "dist"
   ],
   "description": "A plugin to simplify embedding the chatbox iframe within svelte websites.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "dependencies": {
     "acorn": "^8.14.1",
     "aria-query": "^5.3.2",
